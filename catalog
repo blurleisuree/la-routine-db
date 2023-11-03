@@ -1,0 +1,8 @@
+{"_id":{"$oid":"65440ecb24d6530027d1694a"},"name":"t-shirt","sizesVisible":true,"description":"Tee - 100% хлопок;Плотность - 230 грамм;⠀;Fit - Oversize;⠀;Print - DTF;⠀;* Для определения размера воспользуйтесь размерной сеткой в FAQ.;* На картинке макет и он может отличатся от оригинала.;* Стирать при 30° и наизнанку.;"}
+{"_id":{"$oid":"65440ecb24d6530027d1694b"},"name":"longsleeve","sizesVisible":true,"description":"Longsleeve﻿ - 100% хлопок;⠀;Fit - Oversize;⠀;Print - сольвент;⠀;* Для определения размера воспользуйтесь размерной сеткой в FAQ.;* На картинке макет и он может отличатся от оригинала.;* Стирать при 30° и наизнанку."}
+{"_id":{"$oid":"65440ecb24d6530027d1694c"},"name":"hoodie","sizesVisible":true,"description":"Hoodie - 100% хлопок;Плотность - 400 грамм;⠀;Fit - Oversize;⠀;Print - DTF;⠀;* Для определения размера воспользуйтесь размерной сеткой в FAQ.;* На картинке макет и он может отличатся от оригинала.;* Стирать при 30° и наизнанку."}
+{"_id":{"$oid":"65440ecb24d6530027d1694d"},"name":"zip-hoodie","sizesVisible":true,"description":"Zip Hoodie - 100% хлопок;⠀;Fit - Oversize;⠀;Print - Цифровая печать;⠀;*Отправка Zip Hoodie может достигать 2-3 недели!;⠀;* Для определения размера воспользуйтесь размерной сеткой в FAQ.;* На картинке макет и он может отличатся от оригинала.;* Стирать при 30° и наизнанку."}
+{"_id":{"$oid":"65440ecb24d6530027d1694e"},"name":"magazine","sizesVisible":false,"description":""}
+{"_id":{"$oid":"65440ecb24d6530027d1694f"},"name":"bags","sizesVisible":false,"description":""}
+{"_id":{"$oid":"65440ecb24d6530027d16950"},"name":"accessories","sizesVisible":false,"description":""}
+{"_id":{"$oid":"65440ecb24d6530027d16951"},"name":"box","sizesVisible":false,"description":""}
